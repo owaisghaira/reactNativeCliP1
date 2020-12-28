@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855134640051",
+    "firebase_url": "https://social-auth-72fff.firebaseio.com",
+    "project_id": "social-auth-72fff",
+    "storage_bucket": "social-auth-72fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855134640051:android:5a7494e303cb43efd49dc6",
+        "android_client_info": {
+          "package_name": "com.project001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855134640051-5ke1m8jqjtqmim7ou95a5t72n7obqtkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGZqFNX8NYvxuFr-EXxmdu_VJDU2H5HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855134640051-5ke1m8jqjtqmim7ou95a5t72n7obqtkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
